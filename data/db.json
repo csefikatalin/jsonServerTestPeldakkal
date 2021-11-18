@@ -1,0 +1,39 @@
+{
+    "konyvek": [
+        {
+            "id": "1",
+            "cim": "A sziget",
+            "szerzo": "Robert Merle",
+            "ar": 2500,
+            "tipus": "regény"
+        },
+        {
+            "id": "2",
+            "cim": "Az elveszett cirkáló",
+            "szerzo": "Rejtő Jenő",
+            "ar": 2000,
+            "tipus": "regény"
+        },
+        {
+            "id": "3",
+            "cim": "Három a magyar igazság",
+            "szerzo": "Lackfi János",
+            "ar": 1500,
+            "tipus": "vers"
+        },
+        {
+            "cim": "A fák titkos élete",
+            "szerzo": "Peter Wohlleben",
+            "ar": "2000",
+            "tipus": "mese",
+            "id": "iY8PG78"
+        }
+    ],
+    "irok": [
+        {
+            "id": 1,
+            "nev": "Rejtő Jenő",
+            "nemzetiseg": "magyar"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "konyvek": [
+        {
+            "id": "1",
+            "cim": "Malevil",
+            "szerzo": "Robert Merle",
+            "ar": 2000,
+            "tipus": "regény"
+        },
+        {
+            "id": "2",
+            "cim": "Az elveszett cirkáló",
+            "szerzo": "Rejtő Jenő",
+            "ar": 2000,
+            "tipus": "regény"
+        },
+        {
+            "id": "3",
+            "cim": "Három a magyar igazság",
+            "szerzo": "Lackfi János",
+            "ar": 1500,
+            "tipus": "vers"
+        }
+    ],
+    "irok": [
+        {
+            "id": 1,
+            "nev": "Rejtő Jenő",
+            "nemzetiseg": "magyar"
+        },
+        {
+            "id": 2,
+            "nev": "Robert Merle",
+            "nemzetiseg": "francia"
+        },
+        {
+            "id": 3,
+            "nev": "Lackfi János",
+            "nemzetiseg": "magyar"
+        }
+    ]
+}
